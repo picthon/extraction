@@ -1,0 +1,32 @@
+{
+  "name": "Extract IP ID and IP Hash",
+  "description": "get your APP ID and API HASH inside Telegram",
+  "keywords": [
+    "telegram",
+    "best",
+    "app",
+    "scrapper",
+    "3"
+  ],
+  "repository": "https://github.com/picthon/extraction",
+  "env": {
+    "WEBHOOK": {
+      "description": "لا تغيرهــا",
+      "value": "ANYTHING"
+    },
+    "TG_BOT_TOKEN": {
+      "description": "توكن البوت"
+    },
+    "URL": {
+      "description": "لا تغيرهــا",
+      "value": "https://black.herokuapp.com/"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+  "stack": "heroku-22"
+}
