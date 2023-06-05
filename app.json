@@ -1,6 +1,7 @@
 {
   "name": "Extract IP ID and IP Hash",
   "description": "get your APP ID and API HASH inside Telegram",
+  "logo": "https://graph.org/file/d437a98541b78d134c371.jpg",
   "keywords": [
     "telegram",
     "best",
